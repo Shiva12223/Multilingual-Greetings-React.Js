@@ -1,0 +1,19 @@
+.list-item {
+  list-style-type: none;
+  width: 100%;
+  padding: 0px;
+}
+
+.normal-btn {
+  border: 1px solid #db1c48;
+  color: #db1c48;
+  height: 40px;
+  width: 100px;
+  border-radius: 20px;
+  text-align: center;
+  background-color: transparent;
+}
+.active-btn {
+  background-color: #db1c48;
+  color: #ffffff;
+}
